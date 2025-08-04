@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hey! I'm Ilya 👋
 
-<!--
-**Astisek/Astisek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Frontend Developer passionate about building modern web apps with React & Next.js 🚀
 
-Here are some ideas to get you started:
+- 🧠 Currently focused on **Next.js** and **React**  
+- 🔧 Love working with reusable components and scalable architecture
+- 🌱 Always learning new things and improving my skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+
+**Frontend:**  
+⚛️ React • 🔷 Next.js • 🟦 TypeScript • 🖥️ Electron • 🌐 HTML • 🎨 CSS  
+
+**Backend:**  
+🟩 Node.js • 🧱 NestJS • 🔌 Express • 🐘 PostgreSQL  
+
+**Tools:**  
+🐳 Docker • 🐚 Bash • 🔧 Git • ♻️ CI/CD • 🐧 Linux  
+
+---
