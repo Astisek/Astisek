@@ -20,3 +20,7 @@
 🐳 Docker • 🐚 Bash • 🔧 Git • ♻️ CI/CD • 🐧 Linux  
 
 ---
+
+### 📫 Contact me
+📬 Telegram: [@Astisek](https://t.me/Astisek)  
+📧 Email: [Astisek@hotmail.com](mailto:Astisek@hotmail.com)
